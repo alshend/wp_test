@@ -5,7 +5,7 @@
       <paths name="localserver">
         <serverdata>
           <mappings>
-            <mapping deploy="wp-content" local="$PROJECT_DIR$/wp-content" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
